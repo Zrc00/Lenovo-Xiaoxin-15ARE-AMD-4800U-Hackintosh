@@ -37,5 +37,16 @@
 |   USB    |                       /                        |    ✔     |                |
 |  触控板  |             符合 HID 标准的触摸板              |    ✔     |                |
 
+#### 需要的工具
+
+适用于Windows，macOS，Linux的Config.plist编辑工具OCAT：https://github.com/ic005k/OCAuxiliaryTools/releases
+
+适用于macOS的配置查看，补丁工具Hackintool：https://github.com/benbaker76/Hackintool
+
+适用于Windows，macOS，Linux的macOS三码生成工具GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
+
+DiskGenius专业版，MD5校验工具已经放于“Tools”文件夹内，需要自行下载。
+
 注意：EFI已经抹除三码信息，请自行生成三码，机型使用MacBook Pro 16,3。
+
 ![threema](./img/threema.png)
