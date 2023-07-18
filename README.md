@@ -2,7 +2,7 @@
 
 
 
-<h5 align = "Center">作者：Zrc.</h5>
+<h5 align = "Center">作者：Zrc00.</h5>
 
 #### 设备信息:
 
@@ -39,11 +39,11 @@
 
 #### 需要的工具
 
-适用于Windows，macOS，Linux的Config.plist编辑工具OCAT：https://github.com/ic005k/OCAuxiliaryTools/releases
+适用于Windows，macOS，Linux的Config.plist编辑工具OCAT：https://githubfast.com/ic005k/OCAuxiliaryTools/releases
 
-适用于macOS的配置查看，补丁工具Hackintool：https://github.com/benbaker76/Hackintool
+适用于macOS的配置查看，补丁工具Hackintool：https://githubfast.com/benbaker76/Hackintool
 
-适用于Windows，macOS，Linux的macOS三码生成工具GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
+适用于Windows，macOS，Linux的macOS三码生成工具GenSMBIOS：https://githubfast.com/corpnewt/GenSMBIOS
 
 DiskGenius专业版，MD5校验工具已经放于“Tools”文件夹内，需要自行下载。
 
