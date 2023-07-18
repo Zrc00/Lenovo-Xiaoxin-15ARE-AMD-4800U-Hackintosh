@@ -50,5 +50,5 @@ DiskGenius专业版，MD5校验工具已经放于“Tools”文件夹内，需�
 注意：EFI已经抹除三码信息，请自行生成三码，机型使用MacBook Pro 16,3。
 
 ![threema](./img/threema.png)
-<p>对上述内容有疑问，请发送至邮箱:**wishyou2023@outlook.com**</p>
-**非必要请勿打扰。**
+<p align="Center">对上述内容有疑问，请发送至邮箱:wishyou2023@outlook.com</p>
+<p align="Center">非必要请勿打扰。</p>
