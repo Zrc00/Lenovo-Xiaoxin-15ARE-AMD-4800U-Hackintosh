@@ -6,7 +6,7 @@
 
 #### 设备信息:
 
-![sysinfo](.\img\sysinfo.png)
+![sysinfo](./img/sysinfo.png)
 
 <p align="Center">[图]系统信息</p>
 
