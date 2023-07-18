@@ -38,3 +38,4 @@
 |  触控板  |             符合 HID 标准的触摸板              |    ✔     |                |
 
 注意：EFI已经抹除三码信息，请自行生成三码，机型使用MacBook Pro 16,3。
+![threema](./img/threema.png)
