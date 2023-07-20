@@ -12,7 +12,9 @@
 
 **你需要根据你想要安装的macOS系统版本，选择相应的EFI。**
 
-Nootedred.kext（AMD核显驱动）暂时仅支持macOS Big Sur（11）以上系统，其开发者表示macOS Catalina（10.15）的支持即将推出。![macOS-Support](./img/macOS-Support.png)
+Nootedred.kext（AMD核显驱动）暂时仅支持macOS Big Sur（11）以上系统，其开发者表示macOS Catalina（10.15）的支持即将推出。
+
+![macOS-Support](./img/macOS-Support.png)
 
 这里提供了3个本机型的EFI，其中有macOS Big Sur至macOS Ventura的通用EFI，有macOS Big Sur的专用EFI（备用），以及macOS Sonoma Beta版本的专用EFI。
 
@@ -29,19 +31,19 @@ Nootedred.kext（AMD核显驱动）暂时仅支持macOS Big Sur（11）以上系
 
 #### 详细配置表：
 
-| 硬件类型 |                    硬件名称                    | 驱动 |     备注     |
-| :------: | :--------------------------------------------: | :--: | :----------: |
-|  处理器  |           1.80 GHz AMD Ryzen 7 4800U           |  🟢   |              |
-|   显卡   |            AMD Radeon Graphics 2GB             |  🟢   |              |
-|   网卡   | Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC |  🔴   | 自行更换网卡 |
-|   硬盘   |                 Lexar 1TB SSD                  |  ✔   |              |
-|   键盘   |                       /                        |  ✔   |              |
-|   声卡   |         Realtek High Definition Audio          |  ✔   |              |
-|  麦克风  |                 Realtek Audio                  |  ❌   |   无法使用   |
-|  摄像头  |               Integrated Camera                |  ✔   |              |
-|   内存   |               16GB DDR4 3200MHz                |  ✔   |              |
-|   USB    |                       /                        |  ✔   |              |
-|  触控板  |             符合 HID 标准的触摸板              |  ✔   |              |
+| 硬件类型 |                    硬件名称                    | 驱动 |        备注         |
+| :------: | :--------------------------------------------: | :--: | :-----------------: |
+|  处理器  |           1.80 GHz AMD Ryzen 7 4800U           |  🟢   |                     |
+|   显卡   |            AMD Radeon Graphics 2GB             |  🟢   |                     |
+| 无线网卡 | Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC |  🔴   | 更换Intel AX210解决 |
+|   硬盘   |                 Lexar 1TB SSD                  |  🟢   |                     |
+|   键盘   |                       /                        |  🟢   |                     |
+|   声卡   |         Realtek High Definition Audio          |  🟢   |                     |
+|  麦克风  |                 Realtek Audio                  |  🔴   |      无法使用       |
+|  摄像头  |               Integrated Camera                |  🟢   |                     |
+|   内存   |               16GB DDR4 3200MHz                |  🟢   |                     |
+|   USB    |                       /                        |  🟢   |                     |
+|  触控板  |             符合 HID 标准的触摸板              |  🟢   |                     |
 
 #### 需要的工具
 
