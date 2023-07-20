@@ -39,7 +39,7 @@ Nootedred.kext（AMD核显驱动）暂时仅支持macOS Big Sur（11）以上系
 |   硬盘   |                 Lexar 1TB SSD                  |  🟢   |                     |
 |   键盘   |                       /                        |  🟢   |                     |
 |   声卡   |         Realtek High Definition Audio          |  🟢   |                     |
-|  麦克风  |                 Realtek Audio                  |  🔴   |      无法使用       |
+|  麦克风  |                 Realtek Audio                  |  🔴   |                     |
 |  摄像头  |               Integrated Camera                |  🟢   |                     |
 |   内存   |               16GB DDR4 3200MHz                |  🟢   |                     |
 |   USB    |                       /                        |  🟢   |                     |
