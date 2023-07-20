@@ -12,7 +12,7 @@
 
 **你需要根据你想要安装的macOS系统版本，选择相应的EFI。**
 
-Nootedred.kext（AMD核显驱动）暂时仅支持macOS Big Sur（11）以上系统，其开发者表示macOS Catalina（10.15）的支持即将推出。
+Nootedred.kext（AMD核显驱动）暂时仅支持`macOS Big Sur（11）`以上系统，其开发者表示`macOS Catalina（10.15）`的支持即将推出。
 
 ![macOS-Support](./img/macOS-Support.png)
 
