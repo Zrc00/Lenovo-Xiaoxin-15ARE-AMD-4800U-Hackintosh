@@ -47,9 +47,9 @@ Nootedred.kext（AMD核显驱动）暂时仅支持`macOS Big Sur（11）`以上�
 
 #### 需要的工具
 
-适用于全平台的Config.plist编辑工具OCAT：https://githubfast.com/ic005k/OCAuxiliaryTools
+适用于全平台的Config.plist编辑工具OCAT：https://github.com/ic005k/OCAuxiliaryTools
 
-适用于macOS的配置查看，补丁工具Hackintool：https://githubfast.com/benbaker76/Hackintool
+适用于macOS的配置查看，补丁工具Hackintool：https://github.com/benbaker76/Hackintool
 
 进入高级Bios修改核显显存工具UniversalAMDFormBrowser：https://github.com/DavidS95/Smokeless_UMAF
 
