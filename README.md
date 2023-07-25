@@ -4,17 +4,17 @@
 
 <h5 align = "Center">作者：Zrc00.</h5>
 
-#### 设备信息:
+### 设备信息:
 
 ![sysinfo](./img/sysinfo.png)
 
-#### 安装效果
+### 安装效果
 
 ![macos](./img/macos.png)
 
 图片中序列号已打码
 
-#### EFI选择
+### EFI选择
 
 **你需要根据你想要安装的macOS系统版本，选择相应的EFI。**
 
@@ -26,7 +26,7 @@ Nootedred.kext（AMD核显驱动）暂时仅支持`macOS Big Sur（11）`以上�
 
 **某些与本机配置接近的小新笔记本也适用于本EFI。**
 
-#### macOS版本选择:
+### macOS版本选择:
 
 |    系统版本    |        特点        |
 | :------------: | :----------------: |
@@ -35,7 +35,7 @@ Nootedred.kext（AMD核显驱动）暂时仅支持`macOS Big Sur（11）`以上�
 | macOS Ventura  |  不稳定，有时卡死  |
 |  macOS Sonoma  |  测试版本，不稳定  |
 
-#### 详细配置表：
+### 详细配置表：
 
 | 硬件类型 |                    硬件名称                    | 驱动 |        备注         |
 | :------: | :--------------------------------------------: | :--: | :-----------------: |
@@ -51,7 +51,7 @@ Nootedred.kext（AMD核显驱动）暂时仅支持`macOS Big Sur（11）`以上�
 |   USB    |                       /                        |  🟢   |                     |
 |  触控板  |             符合 HID 标准的触摸板              |  🟢   |                     |
 
-#### 需要的工具
+### 需要的工具
 
 适用于全平台的Config.plist编辑工具OCAT：https://github.com/ic005k/OCAuxiliaryTools
 
