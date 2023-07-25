@@ -8,6 +8,12 @@
 
 ![sysinfo](./img/sysinfo.png)
 
+#### 安装效果
+
+![macos](./img/macos.png)
+
+图片中序列号已打码
+
 #### EFI选择
 
 **你需要根据你想要安装的macOS系统版本，选择相应的EFI。**
