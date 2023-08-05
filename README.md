@@ -40,11 +40,11 @@ Nootedred.kext（AMD核显驱动）暂时仅支持`macOS Big Sur（11）`以上�
 | 硬件类型 |                    硬件名称                    | 驱动 |        备注         |
 | :------: | :--------------------------------------------: | :--: | :-----------------: |
 |  处理器  |           1.80 GHz AMD Ryzen 7 4800U           |  🟢   |                     |
-|   显卡   |            AMD Radeon Graphics 2GB             |  🟢   |                     |
+|   显卡   |            AMD Radeon Graphics 2GB             |  🟢   |   Nootedred.kext    |
 | 无线网卡 | Realtek 8822CE Wireless LAN 802.11ac PCI-E NIC |  🔴   | 更换Intel AX210解决 |
 |   硬盘   |                 Lexar 1TB SSD                  |  🟢   |                     |
 |   键盘   |                       /                        |  🟢   |                     |
-|   声卡   |         Realtek High Definition Audio          |  🟢   |                     |
+|   声卡   |                 Realtek ALC257                 |  🟢   |                     |
 |  麦克风  |                 Realtek Audio                  |  🔴   |                     |
 |  摄像头  |               Integrated Camera                |  🟢   |                     |
 |   内存   |               16GB DDR4 3200MHz                |  🟢   |                     |
