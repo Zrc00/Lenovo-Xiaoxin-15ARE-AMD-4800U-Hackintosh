@@ -67,7 +67,7 @@ DiskGenius专业版，MD5校验工具已经放于“Tools”文件夹内，可�
 
 ![threema](./img/threema.png)
 
-<p align="Center">感谢Nootedred开发者的辛苦付出，使AMD核显在macOS上被成功驱动。项目地址：https://github.com/NootInc/NootedRed</p>
+<p align="Center">感谢Nootedred开发者的辛苦付出，使AMD核显在macOS上被成功驱动。项目地址：https://github.com/ChefKissInc/NootedRed</p>
 
 <p align="Center">对上述内容有疑问，请发送至邮箱:wishyou2023@outlook.com</p>
 <p align="Center">非必要请勿打扰。</p>
